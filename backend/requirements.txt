@@ -1,2 +1,10 @@
 fastapi
 pymongo
+
+langchain >=0.3,<0.4
+langchain-google-genai ==	2.0.0
+langchain-chroma>=0.1.4,<0.2
+langchain_text_splitters>=0.3,<0.4
+langchain_community >=0.3,<0.4
+
+chromadb
